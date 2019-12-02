@@ -5,6 +5,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <h1>Surf App</h1>
+      <EnterZIP />
     </div>
   );
 }
